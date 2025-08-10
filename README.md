@@ -1,5 +1,5 @@
 # DiffDock: Diffusion Steps, Twists, and Turns for Molecular Docking
-[![Open in HuggingFace](https://huggingface.co/datasets/huggingface/badges/raw/main/open-in-hf-spaces-sm.svg)](https://huggingface.co/spaces/reginabarzilaygroup/DiffDock-Web)
+
 
 
 ![Alt Text](overview.png)
@@ -245,3 +245,4 @@ We sincerely thank:
 * Jacob Silterra for his help with the publishing and deployment of the code.
 * Arthur Deng, Nicholas Polizzi and Ben Fry for their critical contributions to part of the code in this repository. 
 * Wei Lu and Rachel Wu for pointing out some issues with the code.
+
